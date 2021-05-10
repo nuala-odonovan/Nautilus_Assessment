@@ -25,5 +25,4 @@ def f():
     else:
         w()
         return true
-
 ```
