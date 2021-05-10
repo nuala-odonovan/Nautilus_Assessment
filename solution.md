@@ -22,7 +22,7 @@ def f():
 	if not D: 
 		v()
 		return false
-    else: 
+    else:
         w()
         return true
 
